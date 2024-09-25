@@ -1,0 +1,9 @@
+ida 1:
+- ligar o interruptor 1 e deixar ligado por alguns minutos
+- desligar o interruptor 1
+- ligar o interruptor 2
+
+ida 2:
+- lâmpada acessa: controlada pelo interruptor 2 (atualmente ligada)
+- lâmpada apagada, mas quente: controlada pelo interruptor 1 (foi ligado e desligado)
+- lâmpada apagada e fria: controlada pelo interruptor 3 (nunca foi ligado)
